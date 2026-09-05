@@ -1,11 +1,9 @@
 # EXPERIMENT – 9
 
-## Title
+## Title : Exploring Prompting Techniques for AI-Based Image and Video Generation
 
-**Exploring Prompting Techniques for AI-Based Image and Video Generation**
-
-**Date:** : 05-09-2026
-**Register No:** : 212223230143
+### Date: : 05-09-2026
+### Register No. : 212223230143
 
 ---
 
