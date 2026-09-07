@@ -112,7 +112,14 @@ A highly controlled cinematic video containing consistent astronauts, alien terr
 
 ### Generated Output
 
-**[PASTE GENERATED IMAGE / VIDEO / SCREENSHOT HERE]**
+https://drive.google.com/file/d/1IQS8WyQWbWBp6Vj-PLirhilkykXJtaEv/view?usp=sharing 
+
+https://drive.google.com/file/d/1FdNmI64_7H1JXBKBN6XYT0aE28x0C5A1/view?usp=sharing
+
+https://drive.google.com/file/d/1foyLk6sHob4Ph0UC7F-P27so4jk9x5yF/view?usp=sharing
+
+
+
 
 ### Observation
 
@@ -134,60 +141,6 @@ The advanced structured prompt gives the AI model detailed instructions about ev
 | Consistency       | Low           | Medium          | High                       |
 | Output Control    | Low           | Medium          | High                       |
 | Expected Quality  | Basic         | Good            | Advanced                   |
-
----
-
-# Prompt Progression
-
-### Level 1 – Simple
-
-**Main subject + basic action**
-
-> Astronauts exploring a mysterious planet.
-
-### Level 2 – Detailed
-
-**Subject + environment + objects + lighting + camera + style**
-
-> Astronauts exploring an alien planet with spacecraft, glowing plants, cinematic lighting, and camera movement.
-
-### Level 3 – Advanced
-
-**Scene + environment + characters + lighting + camera + motion + visual style + quality constraints**
-
-> A structured cinematic space exploration scene with detailed astronaut appearance, alien environment, spacecraft, controlled lighting, camera movement, realistic motion, and negative/quality requirements.
-
----
-
-# Key Prompting Techniques Used
-
-## 1. Subject Specification
-
-Clearly identifies the main subjects, such as astronauts and spacecraft.
-
-## 2. Environment Description
-
-Defines the alien planet, mountains, vegetation, sky, and surrounding objects.
-
-## 3. Lighting Control
-
-Specifies sunlight, shadows, reflections, ambient lighting, and atmospheric effects.
-
-## 4. Camera Direction
-
-Provides instructions for camera position, movement, and framing.
-
-## 5. Motion Description
-
-Explains how astronauts, dust, particles, and other elements should move.
-
-## 6. Visual Style
-
-Defines the desired appearance such as photorealistic, cinematic, and science-fiction.
-
-## 7. Quality Constraints
-
-Specifies unwanted results such as flickering, distortions, duplicated characters, unnatural movements, and inconsistent objects.
 
 ---
 
