@@ -56,7 +56,7 @@ A basic video showing astronauts exploring the surface of an unknown planet.
 
 ### Generated Output
 
-**[PASTE GENERATED IMAGE / VIDEO / SCREENSHOT HERE]**
+https://drive.google.com/file/d/1IQS8WyQWbWBp6Vj-PLirhilkykXJtaEv/view?usp=sharing 
 
 ### Observation
 
@@ -76,7 +76,8 @@ A more visually detailed space exploration scene with realistic astronauts, alie
 
 ### Generated Output
 
-**[PASTE GENERATED IMAGE / VIDEO / SCREENSHOT HERE]**
+
+https://drive.google.com/file/d/1FdNmI64_7H1JXBKBN6XYT0aE28x0C5A1/view?usp=sharing
 
 ### Observation
 
@@ -111,10 +112,6 @@ The detailed prompt provides more control over the environment, characters, obje
 A highly controlled cinematic video containing consistent astronauts, alien terrain, spacecraft, lighting, camera movement, realistic motion, and professional visual quality.
 
 ### Generated Output
-
-https://drive.google.com/file/d/1IQS8WyQWbWBp6Vj-PLirhilkykXJtaEv/view?usp=sharing 
-
-https://drive.google.com/file/d/1FdNmI64_7H1JXBKBN6XYT0aE28x0C5A1/view?usp=sharing
 
 https://drive.google.com/file/d/1foyLk6sHob4Ph0UC7F-P27so4jk9x5yF/view?usp=sharing
 
