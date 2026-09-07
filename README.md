@@ -15,9 +15,7 @@ To explore and understand various prompting techniques used for generating image
 
 ## AI Tools Required
 
-* ChatGPT / Gemini
-* AI Image Generation Tool
-* AI Video Generation Tool
+* PixVerse
 * Any suitable generative AI platform
 
 ---
@@ -117,7 +115,6 @@ https://drive.google.com/file/d/1foyLk6sHob4Ph0UC7F-P27so4jk9x5yF/view?usp=shari
 
 
 
-
 ### Observation
 
 The advanced structured prompt gives the AI model detailed instructions about every major component of the scene. This improves consistency, realism, camera control, motion, and overall visual quality.
@@ -141,7 +138,7 @@ The advanced structured prompt gives the AI model detailed instructions about ev
 
 ---
 
-# Analysis
+# Conclution
 
 The experiment demonstrates that prompt complexity has a significant effect on AI-generated images and videos.
 
